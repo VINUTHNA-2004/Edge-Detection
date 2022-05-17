@@ -107,18 +107,23 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 sobel x:
+
 ![ouput](https://github.com/VINUTHNA-2004/Edge-Detection/blob/main/7(a).png?raw=true)
 
 sobel y:
+
 ![ouput](https://github.com/VINUTHNA-2004/Edge-Detection/blob/main/7(b).png?raw=true)
 
 sobel xy:
+
 ![ouput](https://github.com/VINUTHNA-2004/Edge-Detection/blob/main/7(c).png?raw=true)
 
 ### LAPLACIAN EDGE DETECTOR
+
 ![ouput](https://github.com/VINUTHNA-2004/Edge-Detection/blob/main/7(d).png?raw=true)
 
 ### CANNY EDGE DETECTOR
+
 ![ouput](https://github.com/VINUTHNA-2004/Edge-Detection/blob/main/7(e).png?raw=true)
 
 ## Result:
